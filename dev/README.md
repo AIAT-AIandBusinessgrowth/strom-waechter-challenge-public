@@ -139,7 +139,6 @@ function findeGuenstigsteFenster(
 // Demo
 // ---------------------------------------------------------------------------
 
-// Demo-Daten: vereinfachte Illustration, NICHT der echte Datensatz (siehe ../data/prices.json).
 const preise: PreisEintrag[] = [
   { ts: "2026-06-08T00:00:00+02:00", preis_eur_mwh: 42.10 },
   { ts: "2026-06-08T01:00:00+02:00", preis_eur_mwh: 38.50 },
